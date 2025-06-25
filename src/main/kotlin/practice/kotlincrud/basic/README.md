@@ -19,3 +19,18 @@
 | [lambdaKeyword()](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/Keyword.kt#L146-L182)       | 람다식 관련                                                          |                                                         |
 
 ---
+
+## ✅ KotlinClass.kt 학습 내용
+
+| 항목                                                                                                                                                 | 설명                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| [Intro](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L3-L9)                       | 코틀린 클래스 구조 소개                                          |
+| [NormalClass](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L12-L51)               | 주 생성자, 보조 생성자, 프로퍼티, init 블록                           |
+| [OpenClass](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L54-L78)                 | open 을 통한 상속                                           |
+| [AbstractClass](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L81-L114)            | 추상 클래스 상속 방법 및 및 메서드 구현                                |
+| [InterfaceClass](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L117-L147)          | 인터페이스의 프로퍼티 기본값 지정 및 기본 메서드                            |
+| [DataClass](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L150-L166)               | 데이터 클래스의 equals, hashCode, toString, copy, componentN등 |
+| [EnumClass](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L169-L185)               | enum 클래스 선언, 프로퍼티, 메서드                                 |
+| [Sealed Class/Interface](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L188-L250)  | sealed 클래스/인터페이스 통한 제한된 상속 및 분기 처리                     |
+| [Object/Companion Object](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L253-L309) | object 및 활용 학습                                         |
+| [Top-Level](https://github.com/sanghee0820/kotlin-crud/blob/main/src/main/kotlin/practice/kotlincrud/basic/KotlinClass.kt#L312-L320)               | Top-Level 상수 및 함수 정의 학습                                |
